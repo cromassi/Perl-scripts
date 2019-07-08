@@ -1,4 +1,5 @@
 #! /usr/bin/perl
+# author: Massimo Croci / massimocroci1976@gmail.com / 07.2019
 
 use utf8;                                  # used directive
 use warnings;                              # used directive
